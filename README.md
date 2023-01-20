@@ -12,7 +12,7 @@ api_yamdb
 Клонировать репозиторий и перейти в него в командной строке (испольщуем ssh):
 
 ```
-https://github.com/GlebMudrov/api_yamdb.git
+https://github.com/shmyrev/api_yamdb.git
 ```
 
 ```
